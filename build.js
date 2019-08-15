@@ -1,8 +1,8 @@
-const fs = require("fs");
-const path = require("path");
-const marked = require("marked");
+const fs = require('fs');
+const path = require('path');
+const marked = require('marked');
 
-const resume = fs.readFileSync(path.join(__dirname, "./README.md"), "utf8");
+const resume = fs.readFileSync(path.join(__dirname, './README.md'), 'utf8');
 const content = marked(resume);
 
 const tmpl = `
@@ -13,6 +13,12 @@ const tmpl = `
     <title>Macy Ma - Senior Front-End Developer</title>
     <link rel="stylesheet" href="./styles.css" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <style>
+      body {
+        margin: 60px auto;
+        width: 60%;
+      }
+    </style>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57557739-4"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -28,4 +34,4 @@ const tmpl = `
 </html>
 `;
 
-fs.writeFileSync(path.join(__dirname, "./index.html"), tmpl, "utf8");
+fs.writeFileSync(path.join(__dirname, './index.html'), tmpl, 'utf8');
