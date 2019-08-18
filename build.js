@@ -16,7 +16,7 @@ const tmpl = `
     <style>
       body {
         margin: 60px auto;
-        width: 60%;
+        width: 80%;
       }
     </style>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57557739-4"></script>
