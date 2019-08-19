@@ -3,7 +3,7 @@
 - Name: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macy Ma
 - Title: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior Front-End Developer
 - Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hi@macyma.me
-- Visa Status: &nbsp;&nbsp;&nbsp;&nbsp;Work visa application has been submitted
+- Visa Status: &nbsp;&nbsp;&nbsp;&nbsp;Work Visa
 
 Able to build a whole application from translating requirements to actionable, specific, technical tasks; coding and manage progress. I used to work in Alibaba Group (co-founder Jack Ma) for three years and my position is Senior Front-End Engineer.
 
@@ -61,3 +61,4 @@ Dalian Minzu University, Network Engineering — Bachelor, 2011 - 2015
 
 - GitHub: [https://github.com/MacyMa18](https://github.com/MacyMa18)
 - LinkedIn: [https://www.linkedin.com/in/macy-ma-107887134/](https://www.linkedin.com/in/macy-ma-107887134/)
+- My Page: [http://macyma.me/](http://macyma.me/)
