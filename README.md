@@ -1,4 +1,4 @@
-# Macy Ma - Senior Front-End Developer
+# Macy Ma - Front-End Developer
 
 - Name: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macy Ma
 - Title: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior Front-End Developer
@@ -9,7 +9,7 @@ Able to build a whole application from translating requirements to actionable, s
 
 ## Skills
 
-- Programming: JavaScript (ES6+) / HTML5 / CSS3 / TypeScript
+- Programming: JavaScript (ES6+) / HTML5 / CSS3
 - Library & Framework: React / Next.js / jQuery
 - Design: Common Design Principles / Sketch / Photoshop / Responsive Web Design
 - Tooling: VSCode / Git (GitFlow) / webpack / Babel / Debug (Devtools) / SCSS / Less
