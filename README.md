@@ -5,7 +5,7 @@
 - Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;macyma18@gmail.com
 - Visa Status: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work visa
 
-Able to build a whole application from translating requirements to actionable, specific, technical tasks; coding and manage progress. I used to work in Alibaba Group (co-founder Jack Ma) for three years and my title is Senior Front-End Engineer.
+Able to build a whole application from translating requirements to actionable, specific, technical tasks; coding and manage progress. I used to work at Alibaba Group (co-founder Jack Ma) for three years and my title is Senior Front-End Engineer.
 
 ## Skills
 
