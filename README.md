@@ -22,7 +22,7 @@ Able to build a whole application from translating requirements to actionable, s
 - Traveled.
 - Learned English.
 - Prepared to immigrate to New Zealand.
-- Did a part-time remote job, and did two projects.
+- Did a part-time remote job, completed two projects.
 
 ### Alibaba Group Holding Limited ([https://www.alibabagroup.com/](https://www.alibabagroup.com/))
 
